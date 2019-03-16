@@ -21,10 +21,13 @@ git status
 step IV
 git add "file"
 get add .	// add the subfolders
-git add --all
+git add --all	//staging 	
 step V:
-git commit -m "adds .gitignore file"
+git commit -m "adds .gitignore file" //
+git log // see all git commit
 step VI:
 create remote repo:
 
-get init//git status//git add --all//git commit -m "adds .gitignore file"
+get init(needed just at first stage)//git status//git add --all//git commit -m "adds .gitignore file"
+
+git add --all//git commit -m ""//git push

@@ -1,0 +1,30 @@
+basic git command
+
+pwd
+ls
+ls -la //list with more info
+cat "name of file"	//print wath's in the file
+clear
+mkdir "name of directory" // creat a directory called name of directory
+cd "name of file"
+cd ../  	// go level up
+rm "main.css"	//remove file main.css
+rm -rf dir-name		//remove with force
+
+
+Step I
+adds .gitignore file to the repo
+Step II
+command: get init // make folder as git repo
+step III
+git status
+step IV
+git add "file"
+get add .	// add the subfolders
+git add --all
+step V:
+git commit -m "adds .gitignore file"
+step VI:
+create remote repo:
+
+get init//git status//git add --all//git commit -m "adds .gitignore file"

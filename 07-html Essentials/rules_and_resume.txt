@@ -1,0 +1,10 @@
+only character: a-z and 0-9 allowed
+
+paragraphe
+p
+heading:
+h1 to h6
+unordered list:
+ul
+ordered list:
+ol

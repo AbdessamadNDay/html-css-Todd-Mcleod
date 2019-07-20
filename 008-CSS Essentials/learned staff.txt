@@ -1,0 +1,4 @@
+all web elements are in square format
+*CSS proprety:
+-border: it could take width value+color value+style value.
+-border-radius: it could take a px value or a % value

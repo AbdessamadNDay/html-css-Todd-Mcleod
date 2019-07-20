@@ -1,0 +1,14 @@
+div{
+  /* width: 100px; */
+  height: 50px;
+  border: 10px red groove;
+
+}
+.im1{
+  border: 10px green dashed;
+
+}
+.im2{
+    border: 10px red dashed;
+
+}

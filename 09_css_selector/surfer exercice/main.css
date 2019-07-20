@@ -1,0 +1,22 @@
+html{
+  background-color:blue;
+}
+body {
+ border: 5px solid black;
+  margin:0 auto;
+  width: 60%;
+  background-color: green;
+}
+img{
+
+  border: 10px groove yellow;
+  display: block;
+  margin:0 auto;
+  border-radius: 75%;
+}
+h1::first-line{
+color:blue;
+}
+h2::first-line{
+  color: red;
+}
